@@ -1,4 +1,5 @@
 README
+Here are some of the notebooks in the Hybrid Forecasting Competition.
 
 0. Create a dir data0928 under the current dir, and move forecasts.json and ifps.json here, renaming as forecasts0928.json and ifps0928.json.
 
