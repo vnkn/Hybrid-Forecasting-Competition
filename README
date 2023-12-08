@@ -6,4 +6,4 @@ README
 2. Then run preprocessing_including_unresolved_IFPs(Sep2018).ipynb to generate data matrices as .npy file.
 3. Then run SBS_BS_multiplicative_weights_aggregation(Sep2018).ipynb to run aggregators with input data stored in the .npy just generated.
 
-Let me know if there is any question.
+Let me know if there are any questions.
